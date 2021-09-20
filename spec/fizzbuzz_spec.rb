@@ -1,4 +1,4 @@
-require "FizzBuzz"
+require "fizzbuzz"
 
 describe "FizzBuzz" do
   it 'returns "Fizz" when passed a multiple of 3' do
